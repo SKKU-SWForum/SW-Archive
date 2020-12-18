@@ -1,0 +1,45 @@
+레지스터
+$zero: constant 0
+$v0, v1: Values for results and expression evaluation
+$a0 ~ a3: Args
+$t0 ~ t9: Temporaries (Caller-Saved registers)
+$s0 ~ s7: Saved temporaries (Callee-save registers)
+$sp: Stack pointer
+$ra: return address
+
+사칙연산
+add a, b, c # a = b + c (a: 저장되는 변수, b, c: 연산하는데 사용하는 변수)
+sub a, b, c # a = b - c (a: 저장되는 변수, b, c: 연산하는데 사용하는 변수)
+mul a, b, c # a = b * c (a: 저장되는 변수, b, c: 연산하는데 사용하는 변수)
+div a, b, c # a = b / c (a: 저장되는 변수, b, c: 연산하는데 사용하는 변수)
+addi $s3, $s3, 4 # a = a + 4
+# no subi (addi $s2, $s1, -1), use add to move between registers (add $t2, $t1, $zero)
+# using hi, lo register to implement mod operation
+
+Memory Operands
+lw $t0, 32($s3) # temp = A[8] (base pointer of A stored in $s3) # lw: load word (4bytes per word)
+sw $t0, 32($s3) # A[8] = temp (base pointer of A stored in $s3) # sw: store word (4bytes per word)
+
+Logical Operations
+sll $t2, $s0, 4 # temp = a << 4
+srl $t2, $s0, 4 # temp = a >> 4
+# sra: shift right arithmetic (sign extension)
+and $t0, $t1, $t2 # temp = a & b (a: $t2, b: $t1)
+or $t0, $t1, $t2 # temp = a | b (a: $t2, b: $t1)
+not: 생각하는 그거
+nor: $t0, $t1, $zero # Not ($tl OR $zero)
+
+Conditional Operations
+beq rs, rt, L1 # if rs == rt: move to L1
+bne rs, rt, L1 # if rs != rt: move to L1
+j L1 # move to L1
+slt rd, rs, rt # if rs < rt: rd = 1, else: rd = 0
+slti rt, rs, (const) # if rs < const: rt = 1, else: rt = 0
+
+Procedure Call instructions
+jal (Label)
+ㄴ Address of following instruction put in $ra
+ㄴ Jumps to target address (Label)
+jr $ra
+ㄴ Copies $ra to program counter
+ㄴ Can also be used for computed jumps (for case/switch)
