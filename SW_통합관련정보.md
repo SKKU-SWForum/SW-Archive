@@ -10,6 +10,7 @@
    ![image5](Images/Course_integration5.jpg)
 
 2. 정보 출처: 소프트웨어대학 학생회
+
    안녕하십니까, 소프트웨어대학 
    제5대 학생회 Stay With입니다.
 
@@ -37,4 +38,5 @@
    추가적으로 확인되는 정보가 있을 경우 가장 먼저 학우 여러분들께 전달드리도록 하겠습니다.
 
    🌙 함께하는 Stay With, 다가가는 Stay With 🌙
+
    🌙 문의 : https://bit.ly/3qvDIYn
