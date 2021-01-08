@@ -4,7 +4,7 @@
 
 각 디렉토리별 출처 모음
 
-| Directory Name | Image Reference |
-|:--------------:|-----------------|
-| Roundtable | 소프트웨어대학 학생회 Stay With |
-| img_firstinfo | 글로벌 융합학부 학생회 |
+| Directory Name | Image Reference | Uploader |
+|:--------------:|-----------------|----------|
+| Roundtable | 소프트웨어대학 학생회 Stay With | Raven724 |
+| img_firstinfo | 글로벌 융합학부 학생회 | Raven724 |
