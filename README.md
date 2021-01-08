@@ -6,6 +6,7 @@
 ### 바로가기
 
 [2021학년도 학사 일정](Year%20Schedule/2021학년도_학사일정표_수정.pdf)
+[소프트웨어 학과 통합 관련 정보](https://github.com/SKKU-SWForum/SW-Archive/blob/main/SW_%ED%86%B5%ED%95%A9%EA%B4%80%EB%A0%A8%EC%A0%95%EB%B3%B4.md)
 * * *
 
 규칙
