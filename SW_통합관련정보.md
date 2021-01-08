@@ -38,11 +38,11 @@
    ### 주의: 아래 정보는 위 간담회 이전 자료임을 알려드립니다.
 
 2. 정보 출처: 글로벌 융합학부 학생회
-   ![image1](Images/Course_integration1.jpg)
-   ![image2](Images/Course_integration2.jpg)
-   ![image3](Images/Course_integration3.jpg)
-   ![image4](Images/Course_integration4.jpg)
-   ![image5](Images/Course_integration5.jpg)
+   ![image1](Images/img_firstinfo/Course_integration1.jpg)
+   ![image2](Images/img_firstinfo/Course_integration2.jpg)
+   ![image3](Images/img_firstinfo/Course_integration3.jpg)
+   ![image4](Images/img_firstinfo/Course_integration4.jpg)
+   ![image5](Images/img_firstinfo/Course_integration5.jpg)
 
 3. 정보 출처: 소프트웨어대학 학생회
 
