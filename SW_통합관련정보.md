@@ -40,3 +40,39 @@
    🌙 함께하는 Stay With, 다가가는 Stay With 🌙
 
    🌙 문의 : https://bit.ly/3qvDIYn
+
+3. 소프트웨어융합대학 관련 간담회 (20.12.28) 요약본
+   ![newimage1](Images/Roundtable/roundtable01.png)
+   ![newimage2](Images/Roundtable/roundtable02.png)
+   ![newimage3](Images/Roundtable/roundtable03.png)
+   ![newimage4](Images/Roundtable/roundtable04.png)
+   ![newimage5](Images/Roundtable/roundtable05.png)
+   ![newimage6](Images/Roundtable/roundtable06.png)
+   ![newimage7](Images/Roundtable/roundtable07.png)
+   ![newimage8](Images/Roundtable/roundtable08.png)
+   ![newimage9](Images/Roundtable/roundtable09.png)
+   ![newimage10](Images/Roundtable/roundtable10.png)
+   ![newimage11](Images/Roundtable/roundtable11.png)
+   ![newimage12](Images/Roundtable/roundtable12.png)
+   ![newimage13](Images/Roundtable/roundtable13.png)
+   ![newimage14](Images/Roundtable/roundtable14.png)
+   ![newimage15](Images/Roundtable/roundtable15.png)
+   ![newimage16](Images/Roundtable/roundtable16.png)
+   ![newimage17](Images/Roundtable/roundtable17.png)
+   ![newimage18](Images/Roundtable/roundtable18.png)
+   ![newimage19](Images/Roundtable/roundtable19.png)
+   ![newimage20](Images/Roundtable/roundtable20.png)
+   ![newimage21](Images/Roundtable/roundtable21.png)
+   ![newimage22](Images/Roundtable/roundtable22.png)
+   ![newimage23](Images/Roundtable/roundtable23.png)
+   ![newimage24](Images/Roundtable/roundtable24.png)
+   ![newimage25](Images/Roundtable/roundtable25.png)
+   ![newimage26](Images/Roundtable/roundtable26.png)
+   ![newimage27](Images/Roundtable/roundtable27.png)
+   ![newimage28](Images/Roundtable/roundtable28.png)
+   ![newimage29](Images/Roundtable/roundtable29.png)
+   ![newimage30](Images/Roundtable/roundtable30.png)
+   
+   - 통합전과 통합 후 조직도 비교    
+   ![newimage31](Images/Roundtable/roundtable31.png)    
+   
