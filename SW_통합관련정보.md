@@ -74,5 +74,5 @@
    ![newimage30](Images/Roundtable/roundtable30.png)
    
    - 통합전과 통합 후 조직도 비교    
-   ![newimage31](Images/Roundtable/roundtable31.png)    
+   ![newimage31](Images/Roundtable/roundtable31.jpg)    
    
