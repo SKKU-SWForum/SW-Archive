@@ -1,6 +1,6 @@
 # SW 통합 관련 정보    
 
-1. 소프트웨어융합대학 관련 간담회 (20.12.28) 요약본
+1. 소프트웨어융합대학 관련 간담회 (20.12.28) 요약본 (출처: 소프트웨어학과 학생회 Stay With)
    ![newimage1](Images/Roundtable/roundtable01.png)
    ![newimage2](Images/Roundtable/roundtable02.png)
    ![newimage3](Images/Roundtable/roundtable03.png)
