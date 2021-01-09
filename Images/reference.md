@@ -8,3 +8,4 @@
 |:--------------:|-----------------|----------|
 | Roundtable | 소프트웨어대학 학생회 Stay With | Raven724 |
 | img_firstinfo | 글로벌 융합학부 학생회 | Raven724 |
+| Student_Council_Integration | 소프트웨어대학 학생회 Stay With | Raven724 |
